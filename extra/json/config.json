@@ -1,0 +1,7 @@
+{
+    "themes": ["Standart light", "Standart dark", "Monokai", "Monokai low", "Discord"],
+    "theme": "Monokai",
+    "languages": ["English", "Russian", "Ukrainian"],
+    "language": "Ukrainian",
+    "volume_step": 1
+}
